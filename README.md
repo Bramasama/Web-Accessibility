@@ -6,7 +6,7 @@ I made this quiz webpage to showcase my accessibility skills by inserting tools 
 
 ## Built With
 
-* HTML
+* HTMl
 * CSS
 
 
